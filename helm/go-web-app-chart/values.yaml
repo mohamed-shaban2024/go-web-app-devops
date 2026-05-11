@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: mooabu/go-web-app
   pullPolicy: IfNotPresent
-  tag: "25643918049"
+  tag: "25644266022"
 
 service:
   type: ClusterIP
